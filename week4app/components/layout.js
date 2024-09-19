@@ -20,7 +20,7 @@ export default function Layout({children, home}) {
                 )
             }
             <footer>
-                <p>Nick Fitpatrick Fall 2024 CS55.13</p>
+                <p>Nick Fitpatrick Fall 2024 CS55.13 </p>
             </footer>
         </div>
     );
